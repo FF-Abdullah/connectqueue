@@ -1,10 +1,16 @@
 # connectqueue-
 connectqueue script  RedM
 
+AR 
+
+سكربت الانتظار ريد ام
+
+EN: 
+connectqueue script  RedM
 
 
 
-
-qq
-
-
+VORP
+qbrcore
+QRCore 
+redmrp
